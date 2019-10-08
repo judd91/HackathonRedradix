@@ -2,4 +2,4 @@
 IA programming tournament in Javascript.
 Tank battle.
 
-http://hackathon.redradix.com/index.html
+More info: http://hackathon.redradix.com/index.html
