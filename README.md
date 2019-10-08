@@ -1,3 +1,3 @@
 # Hackathon-Redradix
-Torneo de programación de IA en Javascript.
-Combate de tanques.
+IA programming tournament in Javascript.
+Tank battle.
